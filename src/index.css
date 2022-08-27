@@ -11,3 +11,49 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+.home {
+  background-color: #51c0f3; /* Green */
+  border: black;
+  color: white;
+  padding: 15px 32px;
+  margin-left: 3%;
+  margin-top: 3%;
+  margin-bottom: 3%;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 45px;
+}
+
+.excel {
+  background-color: #51c0f3; /* Green */
+  border: black;
+  color: white;
+  padding: 15px 32px;
+  margin-left: 75%;
+  margin-top: 3%;
+  margin-bottom: 3%;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 30px;
+}
+
+.sort{
+  background-color: #51c0f3; /* Green */
+  border: black;
+  color: white;
+  padding: 10px 16px;
+  margin-left: 1%;
+  margin-top: 1%;
+  margin-bottom: 3%;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 15x;
+}
+
+.text{
+  margin-left: 3%;
+}

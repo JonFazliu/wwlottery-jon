@@ -1,0 +1,21 @@
+.winner{
+    background-color: yellow;
+    margin-right: 50%;
+    margin-left: 4%;
+    margin-bottom: 1%;
+    padding: 1%;
+    border-radius: 1rem;
+    border:2px solid black;
+    border-color: black;
+  }
+  
+.loser{
+    background-color: grey;
+    margin-right: 50%;
+    margin-left: 4%;
+    margin-bottom: 1%;
+    padding: 1%;
+    border-radius: 1rem;
+    border:2px solid black;
+    border-color: black;
+  }
